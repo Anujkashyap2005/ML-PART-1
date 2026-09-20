@@ -1,0 +1,306 @@
+employee_id,name,age,gender,department,job_role,education,city,experience_years,salary,joining_date,performance_rating,projects_completed,work_from_home,monthly_hours,left_company
+1181,Arjun,43,male,FINANCE,Business Analyst,MBA,noida,20,117071,19-05-2023,Average,11,Y,,No 
+1155,Nisha,54,male,it,Software Engineer,B.Sc,Delhi ,7,73099,03-03-2022,Good,2,N,194,yes
+1112,Rohit,33,Male,FINANCE,Software Engineer,bca,Noida,4,54035,02-03-2020,Average,0,N,157,Yes
+1248,Karan,40,male, sales ,Data Scientist,B.Sc,Delhi ,12,110601,01-07-2026,Good,8,Yes,140,Yes
+1061,Nisha,42,M,HR,Data Analyst,MBA,Ghaziabad,16,143703,17-10-2017,Good,2,Y,211,Yes
+1010,Priya,21,F,it,Business Analyst,BCA,Bulandshahr,19,128641,03-06-2015,excellent,7,Yes,232,Yes
+1120,Rahul,43,F,FINANCE,Software Engineer,MCA ,noida,9,43169,16-07-2020,excellent,10,N,186,No 
+1158,Simran,21,Male,Marketing,Data Scientist,MCA,Delhi ,16,135407,23-04-2022,Poor,8,Yes,122,No 
+1168,Ankit,49,M,Marketing,Business Analyst,MCA ,Delhi ,20,115359,10-10-2022, Good ,12,yes,243,No
+1034,Arjun,44,M,Marketing,Sales Executive,B.Sc,Bulandshahr,12,83108,15-07-2016,Good,7,yes,232,Yes
+1006,Arjun,,M,HR,Data Analyst,MBA,Bulandshahr,6,49401,27-03-2015,Excellent,12,yes,188,No 
+1102,Nisha,22,Male,it,Sales Executive,MCA ,Ghaziabad,19,137264,14-09-2019, Good ,2, no ,167,No
+1046,Priya,unknown,Male,it,Software Engineer,bca,Delhi,13,30323,04-02-2017,Excellent,9,No,172,yes
+1177,Priya,46,Female,Marketing,Business Analyst,MBA,Delhi ,8,75009,12-03-2023,Good,8,yes,174,No
+1119,Arjun,32,M,Marketing,Sales Executive,MCA,Delhi ,11,116864,29-06-2020, Good ,15, no ,212,Yes
+1047,Nisha,36,Male, sales ,HR Executive,MCA ,Delhi ,13,129335,21-02-2017,Good,11,Yes,242,No 
+1126,Nisha,43,male,IT,Data Scientist,MCA ,Ghaziabad,17,49750,26-10-2020,Poor,5,Yes,154,yes
+1194,Priya,36,M,IT,Business Analyst,MCA ,Noida,17,42022,26-12-2023, Good ,4,Y,129,No 
+1241,Pooja,32,Female,Sales,Business Analyst,MCA ,noida,10,101588,04-03-2026,Average,6,No,220,No 
+1144,Rohit,39,F,Marketing,Business Analyst,bca,Bulandshahr,5,41429,28-08-2021,Excellent,3,yes,247,No
+1230,Sneha,41,Female,Marketing,Data Scientist,B.Tech,noida,5,74492,29-08-2025,Poor,7, no ,226,yes
+1272,Amit,25,Female,Sales,HR Executive,MBA,Ghaziabad,7,113457,13-08-2027,Poor,0, no ,126,No 
+1245,Rahul,55,F,it,HR Executive,B.Tech,Ghaziabad,17,66355,11-05-2026,Poor,2, no ,136,Yes
+1026,Pooja,29,F,Sales,Data Analyst,BCA,Noida,3,58390,01-03-2016,Average,3, no ,241,No 
+1148,Rahul,46, female ,HR,Data Scientist,BCA,Delhi,1,49822,04-11-2021,Poor,14,No,223,Yes
+1222,Riya,30,M,it,Business Analyst,BCA,noida,1,21631,15-04-2025, Good ,2,Y,207,No 
+1256,Vikas,29,M,FINANCE,Sales Executive,B.Sc,Ghaziabad,10,127787,14-11-2026,excellent,4,Yes,160,No 
+1074,Arjun,24,male,it,Data Analyst,MBA,noida,2,28526,26-05-2018, Good ,7, no ,124,No 
+1233,Riya,44,M, sales ,Software Engineer,BCA,Meerut,4,81936,19-10-2025,Good,14,N,170,No
+1110,Sneha,45,male,it,Data Scientist,MCA,Delhi ,2,56067,28-01-2020, Good ,0,Yes,191,Yes
+1141,Rohit,36,M,Finance,Data Scientist,BCA,Ghaziabad,20,49055,08-07-2021,Poor,13,N,156,No
+1287,Neha,25,M,Finance,Data Analyst,MBA,Bulandshahr,6,95794,24-04-2028,Excellent,13,No,173,No
+1210,Riya,49,male,Sales,Sales Executive,MBA,Noida,0,146563,23-09-2024,Poor,8,Yes,201,Yes
+1043,Riya,38, female ,Sales,HR Executive,bca,Ghaziabad,15,94329,15-12-2016,Good,12,yes,168,Yes
+1018,Sneha,27,M,HR,Business Analyst,MBA,Ghaziabad,8,35633,17-10-2015,Average,ten,Yes,123,yes
+1282,Simran,27,Female, sales ,Data Scientist,MBA,Delhi ,6,94971,30-01-2028,Good,5,Yes,140,Yes
+1077,Riya,48,Male, sales ,Business Analyst,B.Tech,Delhi ,9,46982,16-07-2018,Good,7,No,183,Yes
+1091,Amit,23,M,IT,Data Scientist,B.Sc,Ghaziabad,14,139237,11-03-2019,Good,13,yes,167,Yes
+1025,Riya,52,Male,HR,Data Analyst,bca,Delhi,1,110578,13-02-2016,Excellent,4,Y,149,No
+1058,Amit,53,F,FINANCE,Sales Executive,bca,Ghaziabad,1,82315,27-08-2017, Good ,0,yes,222,No 
+1093,Nisha,45,Female,IT,Business Analyst,MCA,noida,11,109878,14-04-2019, Good ,1, no ,171,Yes
+1078,Rahul,,Male,Sales,Sales Executive,MCA ,Delhi,9,18207,02-08-2018,Poor,7,Yes,210,Yes
+1214,Nisha,22,male,HR,Data Analyst,MCA ,Noida,11,46380,30-11-2024,Good,5,Yes,224,yes
+1117,Rohit,36,male,Finance,Sales Executive,MCA,Delhi,18,28382,26-05-2020, Good ,15,Yes,233,yes
+1008,Ankit,twenty five,Female,Finance,Software Engineer,BCA,noida,16,145834,30-04-2015,Poor,5,No,184,Yes
+1290,Pooja,28,Male,FINANCE,Software Engineer,BCA,Ghaziabad,9,138029,14-06-2028, Good ,13, no ,166,No
+1284,Pooja,29,male,HR,Data Analyst,MCA,Bulandshahr,9,82946,04-03-2028,Excellent,3, no ,176,No 
+1079,Neha,49,M,FINANCE,Data Scientist,MCA ,Bulandshahr,11,106733,19-08-2018,excellent,11,Y,236,No
+1295,Simran,45, female , sales ,Data Scientist,B.Tech,Delhi ,0,143588,07-09-2028,excellent,0,yes,221,yes
+1234,Vikas,55,F,IT,Data Scientist,MCA ,Bulandshahr,1,78920,05-11-2025,Good,6,yes,202,No
+1254,Priya,39,F, sales ,HR Executive,BCA,noida,14,96815,11-10-2026,excellent,2,Yes,222,Yes
+1257,Rahul,27,Male,Marketing,Data Analyst,bca,Ghaziabad,18,79063,01-12-2026,Average,4,N,218,Yes
+1064,Karan,47, female ,Sales,HR Executive,B.Tech,noida,4,63113,07-12-2017,Excellent,3, no ,230,No 
+1083,Amit,49,M,Finance,Business Analyst,BCA,Bulandshahr,19,99437,26-10-2018, Good ,4,N,166,yes
+1286,Vikas,22,Male,Sales,Data Analyst,B.Sc,noida,12,102080,07-04-2028,Excellent,7,Yes,237,Yes
+1240,Simran,52, female ,Marketing,Software Engineer,MCA,Noida,14,119015,15-02-2026,Excellent,7,N,132,No
+1219,Rahul,28,male,Marketing,Sales Executive,B.Sc,noida,13,21191,23-02-2025,Poor,13,No,215,No
+1105,Sneha,53,male,Finance,Business Analyst,B.Tech,Bulandshahr,1,53585,04-11-2019,Good,10,N,235,yes
+1061,Nisha,42,M,HR,Data Analyst,MBA,Ghaziabad,16,143703,17-10-2017,Good,2,Y,211,Yes
+1195,Pooja,22, female ,IT,Business Analyst,BCA,Ghaziabad,12,124297,12-01-2024,Good,11,Yes,173,No
+1186,Ankit,30,F,FINANCE,HR Executive,BCA,Noida,1,49174,12-08-2023,Excellent,1,No,138,Yes
+1280,Simran,30,M,it,Software Engineer,MCA,Meerut,3,123432,27-12-2027,Good,7,No,184,yes
+1212,Karan,32,male,Sales,Business Analyst,B.Sc,Bulandshahr,16,39223,27-10-2024, Good ,15,No,246,No
+1198,Karan,47,Female, sales ,Sales Executive,MCA,noida,12,131132,03-03-2024,Excellent,13,No,133,No 
+1076,Priya,37,Male,HR,Business Analyst,MBA,Delhi,15,43592,29-06-2018,excellent,9,Yes,237,Yes
+1178,Ankit,41,Female,HR,Sales Executive,B.Sc,Delhi,15,50371,29-03-2023,Average,10, no ,146,No
+1060,Rohit,42, female ,it,Data Scientist,MCA ,Meerut,5,54378,30-09-2017,Good,3,No,248,yes
+1094,Amit,51,Female,Finance,HR Executive,bca,Delhi ,4,22895,01-05-2019,Poor,9,Yes,215,No 
+1007,Vikas,27,M, sales ,Sales Executive,MBA,Ghaziabad,11,137503,13-04-2015, Good ,6,yes,235,No 
+1179,Rahul,53,Female,,Data Analyst,bca,Delhi ,12,75022,15-04-2023, Good ,1,Y,237,Yes
+1031,Nisha,40,M,Marketing,Data Scientist,MBA,noida,18,35727,25-05-2016,Poor,3, no ,154,yes
+1023,Sneha,32,Male,HR,Sales Executive,B.Sc,Delhi ,1,86388,10-01-2016,excellent,15,N,,No 
+1260,Simran,51,Male,Finance,Business Analyst,B.Tech,Delhi ,20,141257,21-01-2027,Excellent,13,N,243,No 
+1057,Ankit,37,Female,Finance,Data Analyst,MCA ,Ghaziabad,19,90240,10-08-2017,Poor,11,yes,163,yes
+1275,Karan,49,male,Sales,HR Executive,MBA,Bulandshahr,3,107489,03-10-2027, Good ,10,yes,122,No 
+1115,Nisha,21,Female, sales ,Business Analyst,bca,Meerut,0,108517,22-04-2020,Average,7,Yes,132,Yes
+1133,Priya,53,male, sales ,Sales Executive,B.Sc,Noida,19,148513,22-02-2021,Good,6,yes,145,No 
+1237,Karan,52,Male,it,Data Scientist,MBA,Delhi ,14,46082,26-12-2025,excellent,3,Y,179,Yes
+1199,Arjun,40,Male, sales ,Software Engineer,B.Tech,Delhi ,10,34052,20-03-2024,Poor,0,No,229,yes
+1204,Nisha,53,F,FINANCE,Data Scientist,MBA,Delhi,0,40420,13-06-2024,Poor,8,No,123,yes
+1166,Vikas,36,Male,Sales,Data Scientist,B.Tech,noida,15,62936,06-09-2022, Good ,12,Yes,185,No
+1251,Riya,33,Male,FINANCE,Software Engineer,MCA,noida,,142917,21-08-2026,Excellent,14,Y,161,No 
+1085,Pooja,55,F,it,HR Executive,B.Sc,noida,10,90982,29-11-2018,Good,7,yes,139,yes
+1067,Vikas,41, female ,it,Sales Executive,bca,Noida,7,27686,27-01-2018,Excellent,10, no ,218,Yes
+1114,Nisha,40,Male,Marketing,HR Executive,B.Sc,Meerut,4,101362,05-04-2020,Poor,15,N,188,yes
+1169,Riya,34,F,Marketing,Business Analyst,MCA,Bulandshahr,15,141279,27-10-2022,excellent,8,N,221,No
+1147,Amit,48,Female,IT,Data Analyst,MCA ,Ghaziabad,14,35347,18-10-2021,Poor,9,Yes,154,No 
+1020,Pooja,46,F,Marketing,Data Scientist,,Meerut,20,98532,20-11-2015,excellent,14,yes,170,No 
+1145,Sneha,37,Male,FINANCE,Software Engineer,MCA ,Ghaziabad,4,68200,14-09-2021,Excellent,, no ,246,Yes
+1080,Amit,26, female ,HR,Data Analyst,MCA,Ghaziabad,8,142982,05-09-2018,Poor,11, no ,217,No
+1252,Ankit,39,Male,Finance,Data Scientist,B.Sc,Meerut,14,144303,07-09-2026,excellent,14,Y,220,No
+1125,Rahul,52,F,Marketing,HR Executive,MCA ,Noida,1,91861,09-10-2020,excellent,13,No,140,No 
+1073,Nisha,39, female ,Sales,Data Analyst,B.Tech,Delhi,9,66604,09-05-2018,,10,Yes,147,No 
+1016,Neha,50,Male,Finance,HR Executive,MCA,noida,16,,13-09-2015,Average,9,yes,194,Yes
+1011,Ankit,31,Female,HR,HR Executive,B.Tech,Delhi ,4,123111,20-06-2015,Good,14, no ,228,No 
+1165,Rahul,46,Male,it,Sales Executive,B.Sc,Ghaziabad,18,137863,20-08-2022,Excellent,2,yes,135,No
+1225,Arjun,27,Female,Finance,Data Analyst,MCA,Delhi,2,46671,05-06-2025,excellent,12,No,188,yes
+1098,Riya,42,M,it,HR Executive,B.Tech,Meerut,14,28699,08-07-2019,Poor,11, no ,201,yes
+1069,Neha,53, female ,IT,Data Scientist,MBA,noida,3,115543,02-03-2018,excellent,10,Y,223,No 
+1231,Simran,30, female ,Marketing,Data Analyst,MCA,Ghaziabad,20,114722,15-09-2025,Average,7,yes,219,Yes
+1038,Simran,55, female ,it,Data Analyst,MCA ,Ghaziabad,14,144888,21-09-2016,excellent,5,yes,245,yes
+1017,Sneha,55,male,Sales,Data Analyst,bca,Delhi,18,44160,30-09-2015,Good,2, no ,164,No 
+1127,Sneha,42,M,IT,Business Analyst,MCA,Delhi,6,58461,12-11-2020,Average,2,Yes,149,yes
+1153,Vikas,21,F,FINANCE,Data Scientist,B.Tech,Noida,17,29871,28-01-2022,Average,4,No,123,No
+1276,Pooja,31,male,it,Data Scientist,B.Sc,Noida,17,,20-10-2027,Excellent,6, no ,147,No 
+1068,Amit,50,Female,it,Software Engineer,MCA ,Delhi ,11,71363,13-02-2018,Good,1,Yes,201,No 
+1109,Vikas,55,F,IT,Data Analyst,bca,Ghaziabad,0,145810,11-01-2020,Good,5,yes,215,No
+1070,Nisha,48, female ,it,Data Analyst,MCA,noida,12,149733,19-03-2018,Excellent,2,Y,138,Yes
+1032,Karan,44,M,IT,Data Analyst,B.Tech,,11,130418,11-06-2016,Excellent,5,Yes,206,yes
+1180,Neha,50,F,HR,Software Engineer,B.Tech,noida,8,89229,02-05-2023,Good,14,Y,172,No 
+1156,Sneha,52,Female,Finance,Software Engineer,B.Sc,noida,14,53262,20-03-2022,excellent,0,N,two hundred,No
+1232,Rohit,29,Female,Sales,Data Scientist,B.Tech,Noida,11,48111,02-10-2025,Poor,11, no ,201,No 
+1298,Priya,51,M,Sales,HR Executive,bca,Meerut,9,116605,28-10-2028, Good ,7, no ,200,Yes
+1019,Priya,36, female ,IT,Data Scientist,MCA ,Bulandshahr,3,35014,03-11-2015,Poor,2, no ,226,No 
+1187,Arjun,39,Male,Sales,Data Analyst,B.Tech,Ghaziabad,5,94373,29-08-2023,excellent,5, no ,176,No 
+1097,Neha,52,male,HR,Business Analyst,MBA,Meerut,11,94559,21-06-2019,excellent,5, no ,194,No
+1138,Karan,52,F,Marketing,HR Executive,B.Tech,Meerut,9,47984,18-05-2021,Average,6,Y,184,yes
+1292,Rahul,42,F,HR,HR Executive,MCA ,Delhi ,19,1000000,18-07-2028,Good,13,Yes,193,yes
+1087,Karan,41,M,it,Business Analyst,BCA,noida,0,66231,02-01-2019, Good ,8, no ,131,No
+1255,Rahul,32,male,Marketing,HR Executive,B.Tech,Meerut,3,57279,28-10-2026,Good,8,Yes,147,No
+1193,Simran,44,M, sales ,Data Analyst,MCA ,Noida,1,134981,09-12-2023,Poor,15,N,193,No 
+1235,Rahul,55,M,it,Data Analyst,BCA,Meerut,15,81530,22-11-2025,Average,5,Y,231,yes
+1259,Rahul,34, female , sales ,HR Executive,MBA,Delhi,3,115661,04-01-2027,excellent,3,Y,224,No
+1294,Nisha,27,F,IT,Software Engineer,B.Tech,Meerut,40,118500,21-08-2028,Good,3, no ,132,No
+1140,Karan,55,male,Finance,Sales Executive,B.Sc,Delhi,17,23901,21-06-2021,Excellent,4,Yes,144,No
+1285,Sneha,47,male,it,Data Analyst,MCA ,Bulandshahr,6,116989,21-03-2028, Good ,4, no ,168,Yes
+1056,Rohit,23, female ,Marketing,Business Analyst,B.Tech,Bulandshahr,6,134492,24-07-2017,Poor,7, no ,140,Yes
+1173,Karan,25,F,HR,Sales Executive,B.Sc,Bulandshahr,17,72823,03-01-2023,excellent,5,N,153,Yes
+1238,Nisha,44,M,HR,Sales Executive,MBA,Noida,11,141287,12-01-2026,Poor,11,N,239,No
+1171,Simran,25,male,Sales,Software Engineer,MBA,Delhi,8,115539,30-11-2022,Excellent,5,yes,132,No
+1246,Riya,50,Female,Marketing,Data Analyst,B.Tech,Delhi,11,143426,28-05-2026,excellent,3,yes,144,yes
+1130,Priya,42,M, sales ,HR Executive,bca,Meerut,17,42226,02-01-2021, Good ,11,Yes,138,yes
+1039,Simran,45,M, sales ,HR Executive,BCA,Delhi,0,73754,08-10-2016,Average,3,N,228,No 
+1203,Pooja,53,Female,FINANCE,Software Engineer,B.Tech,Noida,14,59424,27-05-2024, Good ,1, no ,149,No 
+1011,Ankit,31,Female,HR,HR Executive,B.Tech,Delhi ,4,123111,20-06-2015,Good,14, no ,228,No 
+1185,Ankit,51,Male,it,Software Engineer,BCA,Noida,3,117853,26-07-2023,Poor,7,Y,172,Yes
+1113,Nisha,27,M,HR,Software Engineer,BCA,Bulandshahr,20,108373,19-03-2020,Poor,6,N,186,No
+1174,Karan,32, female ,it,HR Executive,MCA ,Noida,5,41312,20-01-2023,Average,2,Y,158,yes
+1118,Arjun,34,Male,HR,Data Analyst,BCA,Ghaziabad,13,79929,12-06-2020,Average,11,Y,141,Yes
+1283,Rahul,33,F, sales ,Data Analyst,bca,Ghaziabad,11,111471,16-02-2028,Average,13,N,132,yes
+1289,Pooja,39,Female,Marketing,HR Executive,B.Tech,Meerut,9,142447,28-05-2028, Good ,2,Y,163,Yes
+1288,Amit,49, female ,HR,Data Scientist,B.Sc,noida,16,48841,11-05-2028,Good,2, no ,172,No 
+1182,Neha,30,male,FINANCE,HR Executive,B.Tech,Delhi ,12,114774,05-06-2023,excellent,11, no ,184,Yes
+1184,Vikas,54, female ,FINANCE,Data Analyst,B.Tech,Bulandshahr,10,45605,09-07-2023,excellent,4,Yes,140,No 
+1003,Arjun,23,male,Sales,Data Scientist,MBA,Delhi,2,145959,04-02-2015, Good ,15,Yes,232,Yes
+1116,Arjun,28,Male,HR,Software Engineer,B.Sc,Noida,16,,09-05-2020,Excellent,4,No,150,yes
+1149,Ankit,46,Female,Finance,HR Executive,BCA,Meerut,0,58108,21-11-2021,Average,10,Y,142,yes
+1183,Riya,25,Female, sales ,Business Analyst,BCA,Meerut,8,44715,22-06-2023,excellent,8,Y,132,yes
+1121,Rohit,35, female ,HR,Data Scientist,,Delhi,19,105468,02-08-2020,Poor,4,No,173,No 
+1229,Pooja,45,M,IT,Sales Executive,BCA,Delhi,1,25099,12-08-2025,excellent,2,Yes,184,yes
+1267,Vikas,41,Female,Sales,Sales Executive,bca,Delhi,20,126212,20-05-2027,excellent,11,Y,173,yes
+1128,Sneha,45,M,IT,Data Analyst,B.Sc,noida,14,96222,29-11-2020,excellent,15,Y,176,Yes
+1075,Sneha,55,F,IT,Sales Executive,B.Sc,Delhi,13,86910,12-06-2018,Average,11,yes,220,yes
+1030,Rahul,23, female ,it,Data Analyst,MCA ,Ghaziabad,18,25421,08-05-2016, Good ,13,Yes,220,No
+1084,Riya,51,M,Marketing,HR Executive,MCA,Noida,7,116540,12-11-2018,Average,4,Yes,124,No 
+1250,Nisha,42,Female,Marketing,HR Executive,B.Sc,Delhi ,10,122797,04-08-2026, Good ,5,No,156,No 
+1108,Amit,46,Male,Sales,Sales Executive,MCA ,Meerut,19,102416,25-12-2019, Good ,7,No,232,yes
+1159,Priya,36,F,FINANCE,Sales Executive,bca,Ghaziabad,11,104269,10-05-2022,excellent,3,Y,153,Yes
+1164,Priya,32,male,Finance,Sales Executive,bca,Noida,0,122792,03-08-2022,Average,4,yes,221,No
+1134,Priya,28,Male,Sales,Software Engineer,bca,Noida,12,122211,11-03-2021,Poor,15,Y,232,No
+1196,Nisha,48,Female,IT,HR Executive,BCA,Noida,8,78428,29-01-2024,Average,7, no ,171,Yes
+1223,Rohit,46,Female, sales ,Data Scientist,,Delhi,13,60080,02-05-2025,Good,0,No,169,yes
+1066,Karan,54,Female, sales ,Software Engineer,BCA,Meerut,0,143541,10-01-2018, Good ,8,yes,136,yes
+1205,Nisha,32,M,Sales,HR Executive,B.Tech,Delhi,11,138575,30-06-2024,Poor,2,Y,178,No
+1086,Pooja,53,male,HR,HR Executive,bca,noida,11,120747,16-12-2018,excellent,6,No,165,No 
+1220,Rohit,49,male,IT,Data Scientist,B.Tech,Delhi,13,108536,12-03-2025, Good ,14,yes,157,No
+1160,Rahul,25, female ,Sales,HR Executive,MCA ,Ghaziabad,7,78545,27-05-2022,Good,1,Yes,164,No
+1013,Simran,45,,FINANCE,Business Analyst,MCA ,Noida,11,106920,24-07-2015,excellent,5,Y,239,No 
+1036,Rohit,28,M,Marketing,Data Scientist,MCA ,Ghaziabad,7,142457,18-08-2016,Excellent,4,yes,196,Yes
+1029,Vikas,,Female,Marketing,Data Scientist,MCA,Ghaziabad,9,75993,21-04-2016,excellent,3,Yes,243,Yes
+1143,Ankit,50, female ,it,Data Scientist,B.Sc,Meerut,7,29138,11-08-2021,excellent,1,N,156,Yes
+1197,Amit,52,Male,IT,Business Analyst,MBA,Delhi ,18,77353,15-02-2024,Excellent,9,No,233,No 
+1132,Sneha,35,Female,it,Data Analyst,MBA,Delhi ,5,38609,05-02-2021,Excellent,13,N,127,No
+1176,Arjun,46,F,IT,Software Engineer,B.Sc,Delhi,0,30411,23-02-2023,Average,11, no ,245,yes
+1052,Vikas,41,F,Sales,HR Executive,B.Tech,Delhi,12,72624,17-05-2017,Good,8,Y,228,No 
+1096,Riya,44,Female,IT,Data Analyst,MCA ,Delhi ,16,133700,04-06-2019,Excellent,3,yes,221,No 
+1239,Sneha,43,Male,HR,Business Analyst,B.Tech,Delhi ,3,107570,29-01-2026,Good,0,yes,142,No 
+1227,Priya,31,male,it,HR Executive,BCA,noida,7,145734,09-07-2025,Poor,1,N,183,No
+1042,Nisha,49,male,it,Software Engineer,B.Sc,Noida,3,51893,28-11-2016,Average,10, no ,188,Yes
+1090,Arjun,53,male,Finance,Data Analyst,BCA,Meerut,4,116452,22-02-2019,excellent,15,Y,234,No 
+1224,Neha,54,M,Sales,HR Executive,MBA,Delhi ,8,108353,19-05-2025,Excellent,3,N,127,Yes
+1137,Vikas,26,Male,IT,Business Analyst,MCA,noida,17,82309,01-05-2021,Poor,12,Y,186,yes
+1027,Amit,55,M,FINANCE,Business Analyst,B.Tech,Delhi,5,41711,18-03-2016, Good ,9,Yes,244,yes
+1299,Neha,39, female ,Finance,Business Analyst,MCA ,Meerut,14,73533,14-11-2028,Excellent,13,No,219,Yes
+1142,Nisha,33,M,HR,Business Analyst,BCA,noida,0,132099,25-07-2021, Good ,12,Yes,120,No
+1207,Nisha,21,M,Sales,Software Engineer,bca,Noida,14,107881,03-08-2024,Excellent,1, no ,131,Yes
+1001,Ankit,39,Female,Finance,Sales Executive,B.Tech,Delhi,9,55384,01-01-2015,Poor,9,N,245,yes
+1274,Nisha,43,male,Finance,Business Analyst,B.Sc,Ghaziabad,9,143200,16-09-2027,Excellent,10,yes,137,yes
+1278,Neha,32,male,FINANCE,Software Engineer,B.Sc,Meerut,16,56714,23-11-2027,excellent,10,Yes,147,No
+1101,Ankit,47,F,Marketing,Business Analyst,MBA,Delhi ,11,136413,28-08-2019,excellent,15,N,228,No 
+1263,Amit,25,M,HR,Business Analyst,MBA,Meerut,1,64857,13-03-2027,Excellent,0, no ,150,No 
+1104,Riya,37,Male, sales ,Software Engineer,B.Sc,Bulandshahr,13,142481,18-10-2019,excellent,2,yes,191,Yes
+1172,Rohit,50,male,it,Data Scientist,MCA,Meerut,1,64851,17-12-2022,Average,1,Y,230,No
+1099,Sneha,43,M,FINANCE,Software Engineer,B.Tech,Meerut,14,27715,25-07-2019,Excellent,1, no ,211,yes
+1037,Rahul,40,male,it,Software Engineer,B.Tech,Ghaziabad,20,49910,04-09-2016,Poor,14,Yes,178,No
+1062,Riya,50,Female,Finance,Data Analyst,B.Tech,Bulandshahr,1,74549,, Good ,5,Y,143,No 
+1151,Riya,,Female,Sales,HR Executive,MCA,Delhi ,9,25967,25-12-2021, Good ,15,Yes,153,No
+1243,Rohit,43,Female,IT,Sales Executive,MBA,Noida,5,112439,07-04-2026,Good,15,Yes,227,yes
+1209,Riya,30,male,it,Software Engineer,MBA,Noida,18,122131,06-09-2024,Excellent,10,Yes,153,yes
+1249,Neha,45,Male,Finance,Sales Executive,MCA,Ghaziabad,20,47956,18-07-2026,Poor,14,Y,203,yes
+1012,Simran,48, female , sales ,Data Scientist,BCA,Meerut,3,54041,07-07-2015,Good,7, no ,188,No
+1026,Pooja,29,F,Sales,Data Analyst,BCA,Noida,3,58390,01-03-2016,Average,3, no ,241,No 
+1201,Rohit,32, female ,it,Data Scientist,B.Sc,Ghaziabad,6,149743,23-04-2024,Excellent,2,N,198,No 
+1273,Vikas,55,F,Marketing,Data Analyst,BCA,noida,15,63838,30-08-2027,Good,5,No,155,No
+1028,Nisha,39,F,Sales,HR Executive,BCA,noida,6,109658,04-04-2016,Average,14,N,156,No
+1226,Rohit,24,male,Marketing,Business Analyst,B.Sc,Delhi,20,140811,22-06-2025, Good ,15,yes,240,Yes
+1005,Sneha,40,male,Marketing,Software Engineer,MCA,Bulandshahr,0,93388,10-03-2015,Average,2,N,183,No
+1123,Rohit,54,M,IT,Data Analyst,bca,Meerut,17,63033,05-09-2020,Good,13,yes,183,yes
+1033,Pooja,53,M,IT,Software Engineer,BCA,Bulandshahr,2,22358,28-06-2016,excellent,14,N,137,No
+1211,Simran,33,male, sales ,Data Analyst,bca,Noida,16,55487,10-10-2024,excellent,6, no ,217,Yes
+1163,Riya,23,F,it,HR Executive,MBA,Delhi ,0,115033,17-07-2022,excellent,13,Y,242,Yes
+1216,Ankit,43, female ,Finance,Data Analyst,BCA,Ghaziabad,10,48620,03-01-2025, Good ,4,Y,198,No
+1261,Rahul,39,Male,Finance,Software Engineer,MBA,Delhi,12,104205,07-02-2027,,3,yes,132,Yes
+1139,Ankit,50,Male,it,Sales Executive,bca,Delhi ,7,136947,04-06-2021,Average,4,N,155,Yes
+1063,Amit,28, female ,Finance,Data Scientist,MBA,Ghaziabad,2,91794,20-11-2017,Poor,6,Y,244,yes
+1136,Simran,24,F, sales ,Business Analyst,B.Tech,Bulandshahr,15,92520,14-04-2021,Average,14,Yes,149,Yes
+1129,Simran,42,M,Sales,Data Scientist,BCA,Ghaziabad,10,130020,16-12-2020,Poor,8,Y,166,Yes
+1296,Pooja,24,Male,FINANCE,Sales Executive,MBA,Bulandshahr,11,33997,24-09-2028,excellent,8,Y,143,Yes
+1009,Karan,38, female , sales ,Data Analyst,B.Sc,Delhi,,52084,17-05-2015,excellent,11,yes,150,yes
+1071,Nisha,53,M,FINANCE,Data Analyst,MCA,Meerut,14,113673,05-04-2018,Poor,4,Yes,204,No
+1270,Priya,34,Female,HR,HR Executive,BCA,Delhi,14,87519,10-07-2027,Good,1,N,206,No
+1065,Rohit,47,Female,Finance,Business Analyst,MCA ,Bulandshahr,4,92069,24-12-2017, Good ,6,Y,217,Yes
+1045,Riya,22,Female,,Software Engineer,MCA ,Noida,11,72253,18-01-2017,Average,7, no ,205,No
+1268,Rahul,43, female ,Finance,Sales Executive,MBA,Delhi ,19,57071,06-06-2027,Excellent,12,N,219,Yes
+1157,Pooja,45, female ,FINANCE,Data Analyst,MBA,Noida,7,96213,06-04-2022,Excellent,3,Yes,191,yes
+1041,Nisha,45,male,Finance,Data Analyst,B.Tech,Meerut,7,56467,11-11-2016,Poor,13,Yes,187,Yes
+1124,Sneha,22,M, sales ,HR Executive,BCA,Noida,10,81133,22-09-2020, Good ,5, no ,245,yes
+1281,Sneha,37,Female,FINANCE,Software Engineer,MCA ,noida,10,110949,13-01-2028,Poor,13,yes,219,Yes
+1217,Riya,37, female , sales ,Business Analyst,MCA,Delhi,2,135360,20-01-2025,Poor,11,Yes,212,No
+1154,Priya,21,male,FINANCE,Sales Executive,B.Sc,Delhi ,16,46179,14-02-2022,Excellent,8,yes,221,No
+1024,Nisha,25,Male,FINANCE,Business Analyst,bca,noida,14,34014,27-01-2016,excellent,6,Y,244,No 
+1266,Ankit,45,F,Sales,Software Engineer,BCA,Ghaziabad,15,77765,03-05-2027,Excellent,2,Yes,192,yes
+1111,Karan,44,male,HR,HR Executive,B.Sc,Meerut,5,36073,14-02-2020,Good,11,Yes,182,No
+1082,Neha,44, female ,Marketing,Data Scientist,MCA ,Meerut,4,64479,09-10-2018,Good,3, no ,173,Yes
+1208,Neha,53,F,it,Data Scientist,BCA,Delhi,20,28749,20-08-2024,Poor,9, no ,238,No 
+1213,Ankit,51,Male,FINANCE,Software Engineer,B.Sc,Delhi ,2,90930,13-11-2024,Poor,15,yes,194,yes
+1040,Karan,55, female ,FINANCE,Sales Executive,MCA ,Ghaziabad,2,127847,25-10-2016,Excellent,11,N,141,No 
+1247,Rahul,37,M, sales ,HR Executive,bca,Ghaziabad,10,82027,14-06-2026,Good,9,yes,213,yes
+1297,Arjun,26,Male,Finance,Sales Executive,B.Sc,Noida,12,97751,11-10-2028,Good,7,No,121,No 
+1262,Amit,36,male,Marketing,Business Analyst,B.Tech,noida,18,24910,24-02-2027,Average,11,No,219,No 
+1200,Riya,44, female ,HR,Software Engineer,BCA,Delhi ,0,118689,06-04-2024, Good ,4, no ,172,No 
+1015,Vikas,51,Male,IT,Business Analyst,MCA ,Noida,17,99571,27-08-2015,Poor,10,Yes,186,No
+1048,Ankit,53,F,FINANCE,Software Engineer,B.Sc,Noida,1,130356,10-03-2017,excellent,9,Y,206,Yes
+1095,Karan,23,F, sales ,Software Engineer,B.Tech,Ghaziabad,16,137968,18-05-2019,Poor,11,Y,189,No 
+1269,Rahul,36,F,Finance,HR Executive,MCA,Meerut,13,130990,23-06-2027,Excellent,14,No,228,No 
+1228,Ankit,49,M,IT,Software Engineer,MBA,Delhi,15,69399,26-07-2025,Excellent,1,Yes,240,Yes
+1279,Ankit,29, female ,it,Data Analyst,B.Tech,Delhi,12,73419,10-12-2027,excellent,1,yes,173,Yes
+1202,Vikas,55,M,Marketing,Data Scientist,MBA,,20,18163,10-05-2024, Good ,3,Yes,141,No 
+1162,Vikas,49,F,Marketing,Software Engineer,bca,Noida,3,60913,30-06-2022,Average,13,Yes,202,No
+1044,Riya,38,Male,it,Business Analyst,B.Tech,Delhi ,9,49007,01-01-2017,Good,8, no ,228,yes
+1218,Rahul,46,Male, sales ,Software Engineer,bca,Delhi ,7,71352,06-02-2025,Average,10,No,137,No
+1146,Nisha,39,Male,Sales,Software Engineer,BCA,Bulandshahr,14,119268,01-10-2021, Good ,5, no ,120,No 
+1191,Arjun,24,male, sales ,Data Scientist,B.Sc,Delhi ,18,107818,, Good ,13,yes,142,yes
+1221,Simran,46,male,Finance,Software Engineer,MBA,Delhi ,9,122576,29-03-2025,Good,10,yes,206,No 
+1291,Simran,105,Male,it,Data Analyst,MBA,Delhi,3,94272,01-07-2028, Good ,14,Y,172,No 
+1004,Simran,39,F,IT,Data Scientist,B.Sc,Delhi ,14,94153,21-02-2015, Good ,15,yes,157,No 
+1106,Vikas,29,M,Marketing,Business Analyst,MBA,noida,8,48682,21-11-2019,Poor,1, no ,200,No
+1054,Ankit,28,Male, sales ,HR Executive,MCA ,Delhi ,14,143926,20-06-2017,excellent,13,Yes,204,Yes
+1002,Neha,46,Female,HR,Sales Executive,MCA,Ghaziabad,18,99929,18-01-2015,Average,1,N,168,No
+1050,Rohit,53,M,IT,Data Analyst,BCA,Delhi,4,34456,13-04-2017,Average,14,N,161,No 
+1081,Sneha,55,M,Sales,Data Analyst,MCA ,Noida,0,86619,22-09-2018,Poor,8,N,130,No 
+1206,Nisha,23,Female, sales ,Business Analyst,B.Tech,Ghaziabad,6,75000 INR,17-07-2024,Poor,14,yes,127,No
+1035,Nisha,31,F,it,Data Analyst,B.Tech,Delhi ,17,112018,01-08-2016,Good,,Y,148,No
+1264,Nisha,55, female ,Sales,Data Scientist,B.Sc,noida,13,52964,30-03-2027,excellent,6,yes,249,No 
+1092,Karan,38,,Finance,Data Scientist,B.Tech,Delhi,4,74273,28-03-2019, Good ,7,N,227,yes
+1053,Priya,40,male,Sales,Sales Executive,MBA,Delhi,8,86008,03-06-2017,Excellent,7,N,170,yes
+1265,Pooja,32,F, sales ,Data Analyst,B.Sc,Noida,3,35153,16-04-2027,Poor,8,Y,135,No
+1242,Sneha,33,F,HR,Software Engineer,bca,noida,15,106340,21-03-2026, Good ,6,Yes,143,No 
+1014,Sneha,43,M,FINANCE,Data Analyst,BCA,Noida,19,83681,10-08-2015,excellent,11,N,207,No
+1089,Pooja,43,Female,Sales,Data Scientist,B.Tech,Bulandshahr,five,36752,05-02-2019, Good ,14,N,136,No
+1167,Karan,42,M,Marketing,Data Scientist,BCA,Delhi ,13,46141,23-09-2022, Good ,11,Y,238,No
+1300,Nisha,47,Male,Finance,Business Analyst,MCA ,Ghaziabad,12,100566,01-12-2028,Good,9, no ,250,yes
+1135,Rahul,25,M,it,HR Executive,bca,Bulandshahr,19,142865,28-03-2021,Excellent,0, no ,190,No 
+1293,Rohit,37,Female,IT,HR Executive,MCA ,Delhi,3,61950,04-08-2028,Excellent,10,Yes,600,yes
+1244,Neha,45,Male,it,Business Analyst,B.Sc,Delhi,13,133053,24-04-2026,Average,14,N,130,No
+1055,Vikas,27,male,FINANCE,HR Executive,B.Sc,noida,13,133395,07-07-2017,Excellent,2,N,246,No 
+1051,Priya,34,F, sales ,HR Executive,MBA,Meerut,5,49367,30-04-2017,Average,1,Yes,217,No 
+1175,Nisha,36,Female,Finance,Sales Executive,bca,Bulandshahr,8,116723,06-02-2023,excellent,11,Yes,239,No
+1190,Neha,25,Female,IT,Software Engineer,B.Sc,Meerut,5,81037,19-10-2023,Poor,11,Yes,200,No
+1101,Ankit,47,F,Marketing,Business Analyst,MBA,Delhi ,11,136413,28-08-2019,excellent,15,N,228,No 
+1188,Simran,52, female ,Marketing,Business Analyst,MBA,Delhi ,13,87252,15-09-2023,Good,2,No,144,yes
+1170,Ankit,48,Female,Sales,Data Analyst,MCA,Bulandshahr,4,59568,13-11-2022, Good ,3,yes,185,No
+1059,Neha,32, female , sales ,Business Analyst,MCA,Meerut,6,28756,13-09-2017,Good,9,N,187,yes
+1049,Neha,24,Male, sales ,HR Executive,MCA ,Delhi ,4,128944,27-03-2017, Good ,0,N,250,No
+1236,Priya,38,F,Finance,Software Engineer,B.Sc,Meerut,4,25788,09-12-2025,Excellent,8,No,175,No 
+1253,Amit,32,F,FINANCE,Data Scientist,B.Sc,noida,20,60533,24-09-2026,Good,4,N,167,No
+1022,Amit,21, female ,Finance,Business Analyst,MCA ,Meerut,3,95231,24-12-2015,Average,15,N,125,Yes
+1161,Priya,42,M,IT,Software Engineer,MCA ,Ghaziabad,13,57922,13-06-2022,Good,9,Yes,180,Yes
+1277,Ankit,38,F,HR,HR Executive,BCA,Bulandshahr,1,88119,06-11-2027,Excellent,10, no ,189,yes
+1192,Ankit,36,Male, sales ,Data Analyst,bca,Meerut,5,24548,22-11-2023,Good,9,N,151,yes
+1258,Sneha,48,Female,Marketing,HR Executive,B.Sc,Delhi ,14,145896,18-12-2026,Good,13, no ,166,Yes
+1150,Ankit,43,Female,Sales,Data Scientist,MCA,Ghaziabad,10,146955,08-12-2021, Good ,6,Y,128,No 
+1131,Rahul,26,Female,FINANCE,HR Executive,BCA,Ghaziabad,11,not available,19-01-2021,Excellent,10,yes,233,No 
+1152,Sneha,32,F,IT,Sales Executive,MBA,noida,17,128719,11-01-2022,Poor,10,N,247,Yes
+1100,Riya,22,Male,it,Software Engineer,bca,Noida,,37169,11-08-2019,Poor,6, no ,123,No 
+1088,Neha,52,F,Finance,Business Analyst,B.Sc,Bulandshahr,19,47301,19-01-2019,excellent,14,Y,189,No 
+1215,Rohit,55,F,FINANCE,Data Scientist,BCA,Bulandshahr,5,44035,17-12-2024, Good ,0,No,168,yes
+1122,Ankit,48,Male,Finance,Data Analyst,B.Tech,Bulandshahr,20,52594,19-08-2020, Good ,3,yes,161,No 
+1151,Riya,,Female,Sales,HR Executive,MCA,Delhi ,9,25967,25-12-2021, Good ,15,Yes,153,No
+1021,Vikas,22,Male,it,Software Engineer,BCA,Delhi ,1,67104,07-12-2015, Good ,0, no ,169,yes
+1189,Arjun,21,F,it,Data Analyst,bca,Noida,3,88017,02-10-2023,excellent,11,Y,150,Yes
+1072,Ankit,25,Male,it,Sales Executive,B.Sc,Meerut,10,60828,22-04-2018,Average,2,Y,127,yes
+1107,Arjun,49,Female,Sales,HR Executive,MBA,Bulandshahr,4,147992,08-12-2019,Poor,10,No,200,No 
+1271,Riya,51,M,Sales,Sales Executive,MBA,Delhi ,2,27503,27-07-2027,excellent,2, no ,127,No 
+1103,Rohit,46,Female,Sales,Data Analyst,B.Sc,Ghaziabad,17,23782,01-10-2019,Average,12,Y,192,Yes
